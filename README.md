@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahreddingolcuk" alt="fahreddingolcuk" /></a> </p>
 
-- 🔭 I’m currently working on **Warnvey**
+- 🔭 I’m currently working on **@yemeksepeti**
 
 - 🌱 I’m currently learning **Native IOS Development**
 
 - 📝 I regularly write articles on [https://medium.com/@fahreddingolcuk](https://medium.com/@fahreddingolcuk)
 
-- 💬 Ask me about **React Native & Javascript & Swift**
+- 💬 Ask me about **Swift & React Native & Javascript**
 
 - 📫 How to reach me **fahreddingolcuk@gmail.com**
 
