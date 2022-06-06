@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahreddin</h1>
+<h1 align="center">Hi 👋, I'm Fahrettin</h1>
 <h3 align="center">A programmer who puts his passion into code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahreddingolcuk&label=Profile%20views&color=0e75b6&style=flat" alt="fahreddingolcuk" /> </p>
